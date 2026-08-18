@@ -1,3 +1,3 @@
 # Estudando...
 
-##Proano - Senac Lapa Tito
+Proano - Senac Lapa Tito
